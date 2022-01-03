@@ -8,4 +8,4 @@ Website Port Scanner Made in Python
     
 This tool made for scanning some website Port that's opened for now.
 
-Anyways, if you want me help just add me on Discord --> Ryanz#7919
+Anyways, if you want me help just add me on Discord --> Nick Gur#7919
